@@ -19,17 +19,3 @@ export const colors = {
 	steel: '#B7B7CE',
 	fairy: '#D685AD',
 };
-
-export const pokemons = [
-  { name: "Charizard", type: "Fire" },
-  { name: "Pikachu", type: "Electric" },
-  { name: "Squirtle", type: "Water" },
-  { name: "Bulbasaur", type: "Grass" },
-  { name: "Bulbasaur", type: "Grass" },
-];
-
-export const charizard = {
-  type: "Fire",
-  id: "#004",
-
-};
